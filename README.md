@@ -24,7 +24,7 @@ My Q&A 특징
 ![사랑 이야기 예제](./images/albert02.png)
  
   
-- 철수야 밥먹어, 우리집 메신저 알버트 (My Q&A와 디바이스 컨트롤러 혼합 응용)
+- 철수야 밥먹어, 우리집 메신저 알버트 (My Q&A와 [디바이스 컨트롤러](https://github.com/davincioh/SocialRobotPlatform_albertAI_DeviceController) 혼합 응용)
 
 ![메신저 예제](./images/albert03.png)
  
