@@ -1,6 +1,9 @@
 # Mobile App 으로 간편하게 나만의 음성 명령(질문)과 답변 등록하기 
 NUGU Mobile App에서 나만의 음성 명령을 등록하여 로봇에서 즉시 확인할 수 있습니다.
 
+[![albertAI](http://img.youtube.com/vi/_9cY_C10o5s/0.jpg)](https://youtu.be/_9cY_C10o5s)
+ 
+
 My Q&A 특징
 ---
 - NUGU 앱의 My Q&A 메뉴를 사용하여 질문과 답변 시나리오를 자유롭게 등록할 수 있습니다.
